@@ -2,7 +2,8 @@
   text-align: left;
 }
 
-.Result .mainWord {
-  font-size: 50px;
-  margin: 20px auto;
+.Result h2 {
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 1.2;
 }
