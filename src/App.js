@@ -22,7 +22,7 @@ export default function App() {
              rel="noopener noreferrer">
               Zuzana Ochmanova </a> 
              and is {""}
-              <a href="https://github.com/ZuzanaOchmanova/dictionary-app"
+              <a href="https://github.com/ZuzanaOchmanova/dictionary-project"
               target="_blank"
               rel="noopener noreferrer">
                Open-sourced on GitHub.</a> 

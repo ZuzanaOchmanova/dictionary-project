@@ -52,7 +52,7 @@ export default function Dictionary(props) {
             <form onSubmit={handleSubmit}>
                 <input type="search" onChange={handleKeywordChange} defaultValue={props.defaultKeyword}></input>
             </form>
-            <div className="hint">Suggestions: home, hygge, work, hiraeth, book ...</div>
+            <div className="hint">Suggestions: aurora, hygge, ephemeral, hiraeth, yoga ...</div>
             </section>
             <Result results={results}/>
             <Photos photos={photos}/>
