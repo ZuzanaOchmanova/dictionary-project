@@ -1,0 +1,8 @@
+.Result {
+  text-align: left;
+}
+
+.Result .mainWord {
+  font-size: 50px;
+  margin: 20px auto;
+}
