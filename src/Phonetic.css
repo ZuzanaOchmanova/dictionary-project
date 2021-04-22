@@ -11,10 +11,11 @@
   font-size: 13px;
   font-weight: bold;
   margin-right: 10px;
+  color: #1d97c0;
 }
 
 .Phonetic a:hover {
-  background: #9670f4;
+  background: #1d97c0;
   color: white;
 }
 

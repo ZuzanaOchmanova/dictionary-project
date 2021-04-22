@@ -1,4 +1,3 @@
-import logo from "./logo.png";
 import './App.css';
 import Dictionary from "./Dictionary";
 
@@ -8,8 +7,8 @@ export default function App() {
     <div className="App">
       < div className="container">
       <header className="App-header">
-        <img src={logo} className="App-logo img-fluid"
-        alt="logo"/>
+        <img src="https://static.wikia.nocookie.net/the_avengers_emh__joss_whedon_series_0/images/d/d7/JARVIS_Logo.png/revision/latest?cb=20200514021931"
+        alt="logo" className="logo"/>
       </header>
       <main>
         <Dictionary defaultKeyword="sunset"/>
