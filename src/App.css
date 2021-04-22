@@ -1,5 +1,6 @@
-a {
-  color: #1d97c0;
+.App a {
+  color: #a5e7ff;
+  text-decoration: none;
 }
 
 .App {
